@@ -1,0 +1,12 @@
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EFemp.exe.config
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EFemp.exe
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EFemp.pdb
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EntityFramework.dll
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EntityFramework.xml
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\obj\Debug\EFemp.csprojAssemblyReference.cache
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\obj\Debug\EFemp.csproj.CoreCompileInputs.cache
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\obj\Debug\EFemp.csproj.CopyComplete
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\obj\Debug\EFemp.exe
+C:\Users\Thatodesaisurya\Documents\Visual Studio 2017\Projects\EFemp\EFemp\obj\Debug\EFemp.pdb

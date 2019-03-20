@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EFEMDBModelStoreContainer" CdmEntityContainer="EFEMDBEntities2">
+    <EntitySetMapping Name="EFDBs">
+      <EntityTypeMapping TypeName="EFEMDBModel.EFDB">
+        <MappingFragment StoreEntitySet="EFDB">
+          <ScalarProperty Name="EID" ColumnName="EID" />
+          <ScalarProperty Name="ENAME" ColumnName="ENAME" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="LOCATION" ColumnName="LOCATION" />
+          <ScalarProperty Name="DOJ" ColumnName="DOJ" />
+          <ScalarProperty Name="AGE" ColumnName="AGE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
